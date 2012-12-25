@@ -1,5 +1,12 @@
-body { font: normal 1.0016em/1.5em Verdana, Arial, sans-serif; max-width: 960px; background: #fff; margin: 0 auto; }
+body {
+	font: normal 1.0016em/1.5em Verdana, Arial, sans-serif;
+	max-width: 40em;
+	background: #fff;
+	margin: 0 auto;
+}
+
 html>body { font-size: 16px; } 
+h1, h2, h3, h4, h5, h6 { font-family: Georgia, "Times New Roman", serif; }
 p { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
 h1 { margin: 1.125em 0 0.375em 0; font-size: 2em; line-height: 0.75em; }
 h2 { margin: 1.2857em 0 0.4286em 0; font-size: 1.75em; line-height: 0.8571em; }
