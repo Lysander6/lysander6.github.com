@@ -7,21 +7,26 @@ a, a:visited {
 	text-decoration: none;
 	color: lightBlue;
 }
-pre { font-family: Consolas, monospace; }
+pre, code { font-family: Consolas, monospace; }
 html>body { font-size: 16px; } 
-h1, h2, h3, h4, h5, h6 { font-family: Georgia, "Times New Roman", serif; }
-p { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
-h1 { margin: 1.125em 0 0.375em 0; font-size: 2em; line-height: 0.75em; }
-h2 { margin: 1.2857em 0 0.4286em 0; font-size: 1.75em; line-height: 0.8571em; }
-h3 { margin: 1.6364em 0 0.5455em 0; font-size: 1.375em; line-height: 1.0909em; }
-h4 { margin: 2em 0 0.6667em 0; font-size: 1.125em; line-height: 1.3333em; }
-h5 { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
-h6 { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
-
-hr { color: #eee; clear: both; }
+p { margin: 1.5em  0; font-size: 1em; line-height: 1.5em; }
+h1 { margin: 0.75em 0; font-size: 2em; line-height: 0.75em; }
+h2 { margin: 0.8571em 0; font-size: 1.75em; line-height: 0.8571em; }
+h3 { margin: 1.0909em 0; font-size: 1.375em; line-height: 1.0909em; }
+h4 { margin: 1.3333em 0; font-size: 1.125em; line-height: 1.3333em; }
+h5 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
+h6 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
 
 #header {
 	background-color: #CFFFDD;
+}
+
+#header:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
 }
 
 #header h1 {
