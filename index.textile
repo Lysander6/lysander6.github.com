@@ -5,6 +5,6 @@ title: Lysander
 	{% for post in site.posts %}
 	* {{ post.date | date_to_string }} | "{{ post.title }}":{{ post.url }}
 	{% endfor %}
-	* List item
-	* List item2
-	* List item3
+* List item
+* List item2
+* List item3
