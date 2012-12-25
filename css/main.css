@@ -1,9 +1,9 @@
-body { font-family: Verdana, Arial, Helvetica; max-width: 960px; background: #fff; margin: 0 auto; }
+body { font: normal 1.0016em/1.5em Verdana, Arial, sans-serif; max-width: 960px; background: #fff; margin: 0 auto; }
 html>body { font-size: 16px; } 
-p { margin: 1.5em  0; font-size: 1em; line-height: 1.5em; }
-h1 { margin: 0.75em 0; font-size: 2em; line-height: 0.75em; }
-h2 { margin: 0.8571em 0; font-size: 1.75em; line-height: 0.8571em; }
-h3 { margin: 1.0909em 0; font-size: 1.375em; line-height: 1.0909em; }
-h4 { margin: 1.3333em 0; font-size: 1.125em; line-height: 1.3333em; }
-h5 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
-h6 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
+p { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
+h1 { margin: 1.125em 0 0.375em 0; font-size: 2em; line-height: 0.75em; }
+h2 { margin: 1.2857em 0 0.4286em 0; font-size: 1.75em; line-height: 0.8571em; }
+h3 { margin: 1.6364em 0 0.5455em 0; font-size: 1.375em; line-height: 1.0909em; }
+h4 { margin: 2em 0 0.6667em 0; font-size: 1.125em; line-height: 1.3333em; }
+h5 { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
+h6 { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
