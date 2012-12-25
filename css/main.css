@@ -1,4 +1,4 @@
-body { max-width: 960px; background: #fff; margin: 0 auto; }
+body { font-family: Verdana, Arial, Helvetica; max-width: 960px; background: #fff; margin: 0 auto; }
 html>body { font-size: 16px; } 
 p { margin: 1.5em  0; font-size: 1em; line-height: 1.5em; }
 h1 { margin: 0.75em 0; font-size: 2em; line-height: 0.75em; }

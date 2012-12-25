@@ -3,7 +3,7 @@ title: Jekyll Test
 layout: post
 ---
 
-h1(#test). Header
+h2(#test). Header
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel turpis nulla, sed fringilla eros. Nullam sit amet metus tempor quam tincidunt bibendum. Sed neque ante, tincidunt vel ornare et, rhoncus ut nibh. Phasellus eros lorem, dignissim vitae facilisis eu, congue nec magna. Nunc cursus hendrerit posuere. Morbi nec vestibulum nisl. Aenean dignissim suscipit nunc, vitae pretium neque accumsan quis. Aliquam erat volutpat. Donec condimentum convallis mattis.
 
