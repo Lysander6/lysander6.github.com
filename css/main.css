@@ -5,6 +5,7 @@ body {
 	max-width: 40em;
 	margin: 0 auto;
 }
+html { overflow-y: scroll; }
 a, a:visited { color: #0CA5F5; text-decoration: none; }
 h1 a, h1 a:visited { color: #444; }
 pre, code { font-family: Consolas, monospace; }
