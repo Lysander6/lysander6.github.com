@@ -7,9 +7,11 @@ Trololo
 
 h1(#test). Header
 
-@int main() {
+{% highlight c++ %}
+int main() {
 	return 0;
-}@
+}
+{% endhighlight %}
 
 Footnote[1] Lorem ipsum dolor sit amet.
 
