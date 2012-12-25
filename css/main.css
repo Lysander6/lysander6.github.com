@@ -1,9 +1,9 @@
 body { max-width: 960px; background: #fff; margin: 0 auto; }
-html>body { font-size: 16px; }
-p { margin: 2.25em 0 0.75em 0; font-size: 1em; line-height: 1.5em; }
-h1 { margin: 0.18em 0 0.06em 0; font-size: 12.5em; line-height: 0.12em; }
-h2 { margin: 0.2057em 0 0.0686em 0; font-size: 10.9375em; line-height: 0.1371em; }
-h3 { margin: 0.288em 0 0.096em 0; font-size: 7.8125em; line-height: 0.192em; }
-h4 { margin: 0.36em 0 0.12em 0; font-size: 6.25em; line-height: 0.24em; }
-h5 { margin: 0.36em 0 0.12em 0; font-size: 6.25em; line-height: 0.24em; }
-h6 { margin: 0.36em 0 0.12em 0; font-size: 6.25em; line-height: 0.24em; }
+html>body { font-size: 16px; } 
+p { margin: 1.5em  0; font-size: 1em; line-height: 1.5em; }
+h1 { margin: 0.75em 0; font-size: 2em; line-height: 0.75em; }
+h2 { margin: 0.8571em 0; font-size: 1.75em; line-height: 0.8571em; }
+h3 { margin: 1.0909em 0; font-size: 1.375em; line-height: 1.0909em; }
+h4 { margin: 1.3333em 0; font-size: 1.125em; line-height: 1.3333em; }
+h5 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
+h6 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
