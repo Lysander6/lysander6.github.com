@@ -1,0 +1,18 @@
+--- 
+title: Jekyll Test
+layout: post
+---
+
+Trololo
+
+h1(#test). Header
+
+@int main() {
+	return 0;
+}@
+
+Footnote[1] Lorem ipsum dolor sit amet.
+
+1, 2, 3
+
+fn1. footnote 1
