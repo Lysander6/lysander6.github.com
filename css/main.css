@@ -9,7 +9,7 @@ a, a:visited { color: #333745; text-decoration: none; }
 pre, code { font-family: Consolas, monospace; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Amaranth', Tahoma, Arial, sans-serif; }
 p { margin: 1.5em  0; font-size: 1em; line-height: 1.5em; }
-h1 { margin: 1.5em 0; font-size: 2em; line-height: 0.75em; }
+h1 { margin: 1.5em 0 0.8571em; font-size: 2em; line-height: 0.75em; }
 h2 { margin: 0.8571em 0; font-size: 1.75em; line-height: 0.8571em; }
 h3 { margin: 1.0909em 0; font-size: 1.375em; line-height: 1.0909em; }
 h4 { margin: 1.3333em 0; font-size: 1.125em; line-height: 1.3333em; }
@@ -17,3 +17,11 @@ h5 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
 h6 { margin: 1.5em 0; font-size: 1em; line-height: 1.5em; }
 
 .date { color: #ccc; padding: 0 0 0 2px; }
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #eee;
+	margin: 1em 0;
+	padding: 0;
+}
