@@ -3,5 +3,5 @@ title: Lysander
 layout: default
 ---
 {% for post in site.posts %}
-* "{{ post.title }}":{{ post.url }} <span class="date">| {{ post.date | date_to_long_string }}</span>
+* "{{ post.title }}":{{ post.url }} <span class="date">— {{ post.date | date_to_long_string }}</span>
 {% endfor %}
