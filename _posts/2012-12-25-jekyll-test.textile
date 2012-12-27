@@ -29,4 +29,4 @@ int main() {
 Footnote[1] Lorem ipsum dolor sit amet.
 
 
-fn1. footnote 1
+fn1.footnote 1
